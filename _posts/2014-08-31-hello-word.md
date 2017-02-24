@@ -1,6 +1,6 @@
 ---
-title: Ullamco Laboris minim veniam
-featured: /assets/images/pic03.jpg
+title: This is an example Blog post, if you wanted to blog. 
+featured: /assets/images/pic03.png
 layout: post
 ---
 
