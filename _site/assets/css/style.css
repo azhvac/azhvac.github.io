@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #252122;
+		background: #FFFFFF;
 	}
 
 		body.is-loading * {
@@ -695,7 +695,7 @@
 
 	#banner
 	{
-		background: #CCE8F4 url('../images/pic01.jpg');
+		background: #FFFFFF url('../images/pic01.jpg');
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
